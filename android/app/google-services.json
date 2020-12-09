@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707300127777",
+    "firebase_url": "https://shopping-list-e6b8e.firebaseio.com",
+    "project_id": "shopping-list-e6b8e",
+    "storage_bucket": "shopping-list-e6b8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707300127777:android:18062edf473a1b39521f60",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707300127777-bd04jpui8jr16ihnj1tu0upu004s7t13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB22sqUUQkO_P_dEM5G9lIILCXcX-1dy28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707300127777-bd04jpui8jr16ihnj1tu0upu004s7t13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
