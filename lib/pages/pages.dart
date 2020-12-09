@@ -1,3 +1,3 @@
-import 'package:flutter/material.dart';
 
-part 'home_page.dart';
+
+part of 'home_page.dart';
